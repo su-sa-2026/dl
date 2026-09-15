@@ -30,6 +30,8 @@ page 7
 page 8
 <img width="1399" height="1086" alt="image" src="https://github.com/user-attachments/assets/4e507a9c-ac92-418d-8967-a69cb2c0ad33" />
 
+**Kaggleデータセット**: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset?resource=download
+
 ---
 page 9
 <img width="1347" height="1014" alt="image" src="https://github.com/user-attachments/assets/dd05e50b-a1ac-41bf-bd12-21e63e05eb98" />
