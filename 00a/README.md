@@ -6,6 +6,8 @@ page 1
 page 2
 <img width="1504" height="1101" alt="image" src="https://github.com/user-attachments/assets/e70cf485-c8b0-4afa-b433-4b4d14f205c1" />
 
+Source: http://www.theobjects.com/dragonfly/dfhelp/2020-1/Content/Artificial%20Intelligence/Deep%20Learning%20Tool/Workflow%20and%20Data%20Preparation.htm
+
 ---
 page 3
 <img width="1491" height="1115" alt="image" src="https://github.com/user-attachments/assets/23a7c44f-7f85-40b7-8a1d-2c14096534ab" />
