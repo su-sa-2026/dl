@@ -12,9 +12,7 @@ page 10
 
 ---
 page 11
-<img width="1468" height="1106" alt="image" src="https://github.com/user-attachments/assets/c27ec771-1aab-45cc-ab9f-6d6343aa492d" />
-
-Source: https://keras.io/ja/getting-started/sequential-model-guide/
+<img width="1468" height="1082" alt="image" src="https://github.com/user-attachments/assets/938032ce-f6cb-4210-ab4f-7fb42576a3fc" />
 
 ---
 page 12
