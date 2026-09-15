@@ -38,7 +38,7 @@ page 9
 page 10
 <img width="1477" height="1016" alt="image" src="https://github.com/user-attachments/assets/a19eebca-b153-4a52-af62-927672f28709" />
 
-https://www.anaconda.com/distribution/
+**Anaconda**: https://www.anaconda.com/distribution/
 
 ---
 page 11
