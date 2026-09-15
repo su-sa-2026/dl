@@ -30,7 +30,9 @@ page 7
 page 8
 <img width="1399" height="1086" alt="image" src="https://github.com/user-attachments/assets/4e507a9c-ac92-418d-8967-a69cb2c0ad33" />
 
-**Kaggleデータセット**: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset?resource=download
+**（旧）Kaggleデータセット**: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset?resource=download
+
+**（新）Kaggle Cats and Dogs Dataset**: https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 ---
 page 9
