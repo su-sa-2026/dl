@@ -44,6 +44,8 @@ page 10
 
 **Anaconda**: https://www.anaconda.com/distribution/
 
+<img width="2016" height="1172" alt="image" src="https://github.com/user-attachments/assets/6374d909-e6c9-417b-8de1-aee6b3cfd0e3" />
+
 ---
 page 11
 <img width="1408" height="1104" alt="image" src="https://github.com/user-attachments/assets/656dbe27-9b7b-450b-bae9-796a913ab92e" />
