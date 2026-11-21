@@ -10,7 +10,13 @@ page 2
 page 3
 <img width="1458" height="1109" alt="image" src="https://github.com/user-attachments/assets/31211d4e-c147-4465-a56a-4e2409efddad" />
 
-**Source**: Vaswani et al., 2017
+---
+
+**Source**: Vaswani et al., 2017 
+
+https://arxiv.org/pdf/1706.03762
+
+再帰層や畳み込み層を一切使わず、Self-Attentionのみで構成された Transformer を提案。機械翻訳などで高い性能と並列化効率を実現。
 
 ---
 page 4
